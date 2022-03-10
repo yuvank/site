@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My Personal Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My Personal Site</description>
+    <title>Posts on Yuvankarrtik</title>
+    <link>http://yuvankarrtik.com/posts/</link>
+    <description>Recent content in Posts on Yuvankarrtik</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jan 2022 06:21:39 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2022 06:21:39 +0530</lastBuildDate><atom:link href="http://yuvankarrtik.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Jan 2022 06:21:39 +0530</pubDate>
+      <link>http://yuvankarrtik.com/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Mar 2022 06:21:39 +0530</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>Hello, everyone. So, I have been wanting to try static generators for some time. I still think ghost is much better for writers though. Lets see.</description>
+      <guid>http://yuvankarrtik.com/posts/my-first-post/</guid>
+      <description>This is my first real post.
+My site has the basics right now.
+I have deployed the site in Netlify and now it deploys from the latest GitHub commits.
+Static generators It looks nice. I have heard how easy static site generators are, etc.
+But my first foray into them was not that easy or interesting. Many of them required some basics of liquid, graphql, etc. Maybe the ones I tried only had these requirements.</description>
     </item>
     
   </channel>
