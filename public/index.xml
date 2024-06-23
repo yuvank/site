@@ -6,8 +6,17 @@
     <description>Recent content on Yuvankarrtik</description>
     <generator>Hugo -- 0.92.2</generator>
     <language></language>
-    <lastBuildDate>Thu, 10 Mar 2022 06:21:39 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:22:39 +0530</lastBuildDate>
     <atom:link href="https://yuvankarrtik.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Pull Request on a FOSS project</title>
+      <link>https://yuvankarrtik.com/posts/my-first-pull-request-on-a-foss-project/</link>
+      <pubDate>Sun, 23 Jun 2024 06:22:39 +0530</pubDate>
+      <guid>https://yuvankarrtik.com/posts/my-first-pull-request-on-a-foss-project/</guid>
+      <description>Updating the site This website was built on a earlier version of hugo and earlier version of PaperMod theme. It didn&amp;rsquo;t work on the latest version of hugo for sometime now.
+The problem in the latest versions I tried building the site with latest hugo. It worked without major issues. It did build but there was no output. There were some errors in the latest version of the theme.
+I solved it in my local computer and pushed it to GitHub.</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://yuvankarrtik.com/posts/my-first-post/</link>
@@ -16,8 +25,8 @@
       <description>This is my first real post.
 My site has the basics right now.
 I have deployed the site in Netlify and now it deploys from the latest GitHub commits.
-Static generators It looks nice. I have heard how easy static site generators are, etc.
-But my first foray into them was not that easy or interesting. Many of them required some basics of liquid, graphql, etc. Maybe the ones I tried only had these requirements.</description>
+Static generators They are very minimal and fast. They look good too.
+But my first foray into them was not as easy as I heard about them. Many of them required some basics of liquid, graphql, etc. The tutorials I saw made it even more complicated.</description>
     </item>
   </channel>
 </rss>

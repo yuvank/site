@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuvankarrtik.com/posts/my-first-post/</loc>
-    <lastmod>2022-03-10T06:21:39+05:30</lastmod>
+    <loc>https://yuvankarrtik.com/posts/my-first-pull-request-on-a-foss-project/</loc>
+    <lastmod>2024-06-23T06:22:39+05:30</lastmod>
   </url><url>
     <loc>https://yuvankarrtik.com/posts/</loc>
-    <lastmod>2022-03-10T06:21:39+05:30</lastmod>
+    <lastmod>2024-06-23T06:22:39+05:30</lastmod>
   </url><url>
     <loc>https://yuvankarrtik.com/</loc>
+    <lastmod>2024-06-23T06:22:39+05:30</lastmod>
+  </url><url>
+    <loc>https://yuvankarrtik.com/posts/my-first-post/</loc>
     <lastmod>2022-03-10T06:21:39+05:30</lastmod>
   </url><url>
     <loc>https://yuvankarrtik.com/categories/</loc>

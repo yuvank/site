@@ -12,26 +12,21 @@ I have deployed the site in Netlify and now it deploys from the latest GitHub co
 
 ## Static generators
 
-It looks nice. I have heard how easy static site generators are, etc.
+They are very minimal and fast. They look good too.
 
-But my first foray into them was not that easy or interesting. Many of them required some basics of liquid, graphql, etc. Maybe the ones I tried only had these requirements. I think it is more that the tutorials I found could have made it more complicated. 
+But my first foray into them was not as easy as I heard about them. Many of them required some basics of liquid, graphql, etc. The tutorials I saw made it even more complicated. 
 
-I faced some minor issues in 11ty and Gatsby. I am sure about Elventy. But I have no idea if the other generator was Gatsby. Hugo worked out of the box. It also seemed fast. I also really like this theme. 
+I faced some minor issues while trying 11ty and Gatsby. Hugo worked out of the box. It also seemed fast. I love this theme.
 
 ## Deployment
 
-I first manually deployed the website. But i think I realized how different it would be from wordpress, etc. You just login and start writing when you use those. Here you actually need to deploy and manage things. 
+Earlier, I manually deployed the website. But I soon realized how different it is from Wordpress. You just login and start writing when you use those CMS. 
+Here you actually need to deploy and manage things. So, I just made use of GitHub and Netlify for CI/CD.
 
-Now I have deployed it properly in Netlify. This is just much easier.
-
-## Unsure of what to do
-
-Also, mainly I was unsure of what to put here. I had ideas. A blog in a subdomain. But the reality is anything is better than thinking about it. 
+## Future of this blog
 
 I am unsure about the licensing for the articles.
 
-And especially it is much easier to do things and document them. Than just say I knew these things one time and I did them. 
+It is easier to do things and document them than to say I knew these things one time and I was able to do them. 
 
-For example: I created a Nextcloud in a LAMP stack by following tutorials. But I couldn't make the SSL certificate to work properly. So, I just removed it instead of having an insecure cloud storage. I have a Minecraft server. I patched the log4j, I mean I just updated things. 
-
-Markdown is easier to write. It is also getting much more popular than others like org-mode, etc. 
+For example: I configured Nextcloud on a VPS by following some tutorials.
