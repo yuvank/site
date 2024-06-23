@@ -2,3 +2,36 @@ baseURL: https://yuvankarrtik.com/
 languageCode: en-us
 title: Yuvankarrtik
 theme: "PaperMod"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  ShowCodeCopyButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  homeInfoParams:
+    Title: Hello there
+    Content: You are in Yuvan's blog
+  socialIcons:
+    - name: "medium"
+      url: "https://medium.com/@yuvankk"
+    - name: "github"
+      url: "https://github.com/yuvank/"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+    
+
+        
+        
